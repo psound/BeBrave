@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ruby Red  Project</title>
+  <%= stylesheet_link_tag    "application" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+	<div class="container">
+		<div id="navbar">
+			<ul id="nav">
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Store</a></li>
+				<li><a href="#">Mac</a></li>
+				<li><a href="#">iPod</a></li>
+				<li><a href="#">iPhone</a></li>
+				<li><a href="#">iPad</a></li>
+				<li><a href="#">iTunes</a></li>
+				<li><a href="#">Support</a></li>
+				<li><a href="#">Help</a></li>
+			</ul>
+		</div>
+<%= yield %>
+</div>
+</body>
+</html>

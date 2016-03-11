@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceSet id="eq5d" locale="es">
+    <text id="EQ5D_SHORT_NAME"><![CDATA[EQ5D]]></text>
+    <text id="EQ5D_LONG_NAME"><![CDATA[EuroQol]]></text>
+    <!-- EQ5D Question 1 -->
+    <text id="EQ5D_1_0_QUESTION"><![CDATA[Por favor indique cual frase describe mejor su estado de salud hoy. MOBILIDAD: ]]></text>
+    <text id="EQ5D_NO_PROBLEMS_WALKING"><![CDATA[Yo no tengo problemas para caminar.]]></text>
+    <text id="EQ5D_SOME_PROBLEMS_WALKING"><![CDATA[Yo tengo algunos problemas para caminar.]]></text>
+    <text id="EQ5D_UNABLE_WALKING"><![CDATA[Yo estoy confinafo a una cama.]]></text>
+    <!-- EQ5D Question 2 -->
+    <text id="EQ5D_2_0_QUESTION"><![CDATA[Por favor indique cual frase describe mejor su estado de salud hoy. ASEO PERSONAL:]]></text>
+    <text id="EQ5D_NO_PROBLEMS_SELF_CARE"><![CDATA[Yo no tengo problemas con mi aseo personal.]]></text>
+    <text id="EQ5D_SOME_PROBLEMS_SELF_CARE"><![CDATA[Yo tengo algunos problemas con mi aseo personal.]]></text>
+    <text id="EQ5D_UNABLE_SELF_CARE"><![CDATA[Yo no me puedo bañar o vestir. ]]></text>
+    <!-- EQ5D Question 3 -->
+    <text id="EQ5D_3_0_QUESTION"><![CDATA[Por favor indique cual frase describe mejor su estado de salud hoy. ACTIVIDADES USALES:]]></text>
+    <text id="EQ5D_NO_PROBLEMS_USUAL_ACTIVITIES"><![CDATA[Yo no tengo problemas al realizar mis actividades usuales.]]></text>
+    <text id="EQ5D_SOME_PROBLEMS_USUAL_ACTIVITIES"><![CDATA[Yo tengo algunos problemas al realizar my actividades diarias]]></text>
+    <text id="EQ5D_UNABLE_USUAL_ACTIVITIES"><![CDATA[Yo no puedo realizar mis actividades diarias]]></text>
+    <!-- EQ5D Question 4 -->
+    <text id="EQ5D_4_0_QUESTION"><![CDATA[Por favor indique cual frase describe mejor su estado de salud hoy. DOLOR/MAL ESTAR]]></text>
+    <text id="EQ5D_NO_PAIN"><![CDATA[Yo no tengo dolor o mal estar.]]></text>
+    <text id="EQ5D_SOME_PAIN"><![CDATA[Yo tengo moderado dolor o mal estar.]]></text>
+    <text id="EQ5D_EXTREME_PAIN"><![CDATA[Yo tengo dolor o mal estar.]]></text>
+    <!-- EQ5D Question 5 -->
+    <text id="EQ5D_5_0_QUESTION"><![CDATA[Por favor indique cual frase describe mejor su estado de salud hoy. ANSIEDAD/DEPRESION:]]></text>
+    <text id="EQ5D_NO_ANXIETY"><![CDATA[Yo no estoy asioso o deprimido.]]></text>
+    <text id="EQ5D_SOME_ANXIETY"><![CDATA[Yo estoy moderadament ansioso o deprimido.]]></text>
+    <text id="EQ5D_EXTREME_ANXIETY"><![CDATA[Yo estoy extremadamente ansioso o deprimido.]]></text>
+    <!-- EQ5D Question 6 -->
+    <text id="EQ5D_6_0_QUESTION"><![CDATA[Por favor indique en la siguiente scala que tan buena o mala es su salud el dia de hoy, en su opinion.]]></text>
+    <text id="EQ5D_BEST_HEALTHSTATE"><![CDATA[Muy Bien]]></text>
+    <text id="EQ5D_WORST_HEALTHSTATE"><![CDATA[Muy Mal]]></text>
+</resourceSet>
